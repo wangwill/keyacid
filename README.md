@@ -17,3 +17,6 @@ Keyacid is an offline crypto program inspired by [keybase](https://keybase.io). 
 ## License
 
 [BSD-3-Clause](https://github.com/yvbbrjdr/keyacid/blob/master/LICENSE)
+
+Instructions (Written In Chinese)
+https://blog-wangwill.rhcloud.com/archives/23/
